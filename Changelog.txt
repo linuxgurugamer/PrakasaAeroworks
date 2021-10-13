@@ -1,0 +1,8 @@
+Changelog
+
+0.9.0
+	Adoption by LGG
+	Fixed all node sizes
+	Fixed all bulkheadProfiles
+	Reorganized into smaller directories which match stock
+	Added two beta cockpits which are somewhat unfinished
