@@ -1,5 +1,8 @@
 Changelog
 
+0.9.0.2
+	Updated EC usage on the Saavadhan engine
+
 0.9.0.1
 	Thanks to forum user @ColdJ for tagging all the parts
 
