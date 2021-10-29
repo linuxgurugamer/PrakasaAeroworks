@@ -1,5 +1,8 @@
 Changelog
 
+0.9.0.3
+	Fixed node size on Raksha Corvette Bridge, thanks @manul for this
+
 0.9.0.2
 	Updated EC usage on the Saavadhan engine
 
