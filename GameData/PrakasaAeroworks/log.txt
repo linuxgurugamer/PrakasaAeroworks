@@ -1,0 +1,102 @@
+LOG : Opening file : D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.png
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.png
+LOG : Opening file : D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.png
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.png
+LOG : Opening file : D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.png
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 12.8865003585815ms
+Image conversion took 313.156188964844ms
+-----
+Folder infos : 
+MBM files count : 0
+TGA files count : 0
+PNG files count : 8
+Backup files count : 0
+-----
+-----
+Starting conversion of 8 files.
+    MBM count : 0.
+    TGA count : 0.
+    PNG count : 8.
+0 files excluded, 0 files without mipmaps. 0 files will skip normal detection.0 files will not be resized.
+-----
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LX\2.5\TankSkinnedLFO.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LX\2.5\TankSkinnedLFO.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LX\2.5\TankSkinnedLFO.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LF\2.5\TankSkinnedLF.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LF\2.5\TankSkinnedLF.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LF\2.5\TankSkinnedLF.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\VyapakEngine\skin.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\VyapakEngine\skin.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\VyapakEngine\skin.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\Saavadhan\SaavadhanSkinned.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\Saavadhan\SaavadhanSkinned.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\Saavadhan\SaavadhanSkinned.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\SK\DohanKshayUnwrapSkinned.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\SK\DohanKshayUnwrapSkinned.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\SK\DohanKshayUnwrapSkinned.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\DK\DohanKshayUnwrapSkinned.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\DK\DohanKshayUnwrapSkinned.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\DK\DohanKshayUnwrapSkinned.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\Vaayu\2.5\VaayuUnwrapSkinned.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\Vaayu\2.5\VaayuUnwrapSkinned.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\Vaayu\2.5\VaayuUnwrapSkinned.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\AerodynamicEngineHousing\TailSkinned.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\AerodynamicEngineHousing\TailSkinned.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\AerodynamicEngineHousing\TailSkinned.png
+---
+-----
+Conversion done! 8 files processed in 1115.22253417969ms.
+8 files skipped, check log.txt for more informations.
+-----
+-----
+Starting conversion of 9 files.
+    MBM count : 0.
+    TGA count : 0.
+    PNG count : 9.
+0 files excluded, 0 files without mipmaps. 0 files will skip normal detection.0 files will not be resized.
+-----
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\Xe\2.5\TankSkinnedXenon.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LX\2.5\TankSkinnedLFO.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LX\2.5\TankSkinnedLFO.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LX\2.5\TankSkinnedLFO.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LF\2.5\TankSkinnedLF.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LF\2.5\TankSkinnedLF.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Tanks\PrakTank\LF\2.5\TankSkinnedLF.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\VyapakEngine\skin.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\VyapakEngine\skin.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\VyapakEngine\skin.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\Saavadhan\SaavadhanSkinned.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\Saavadhan\SaavadhanSkinned.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\Saavadhan\SaavadhanSkinned.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\SK\DohanKshayUnwrapSkinned.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\SK\DohanKshayUnwrapSkinned.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\SK\DohanKshayUnwrapSkinned.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\DK\DohanKshayUnwrapSkinned.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\DK\DohanKshayUnwrapSkinned.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Engines\DKNH\DK\DohanKshayUnwrapSkinned.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\Vaayu\2.5\VaayuUnwrapSkinned.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\Vaayu\2.5\VaayuUnwrapSkinned.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\Vaayu\2.5\VaayuUnwrapSkinned.png
+---
+LOG : Converting D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\AerodynamicEngineHousing\TailSkinned.png to D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\AerodynamicEngineHousing\TailSkinned.dds
+ERR : Unknown file format A16B16G16R16, skipping conversion for D:\Users\jbb\github\PrakasaAeroworks\GameData\PrakasaAeroworks\Parts\Aerodynamics\AerodynamicEngineHousing\TailSkinned.png
+---
+-----
+Conversion done! 9 files processed in 1325.51794433594ms.
+9 files skipped, check log.txt for more informations.
+-----
+-----
+Starting conversion of 0 files.
+    MBM count : 0.
+    TGA count : 0.
+    PNG count : 0.
+0 files excluded, 0 files without mipmaps. 0 files will skip normal detection.0 files will not be resized.
+-----
+-----
+Conversion done! 0 files processed in 0.000199999994947575ms.
+-----

@@ -1,5 +1,15 @@
 Changelog
 
+0.9.0.5
+	Fixed configs for the Mk2Thruster and VyapakSCRAM re. surface effects
+	Changed all remaining PNG files to DDS
+	Thanks to forum user @ColdJ for this:
+		Fixed some collider issues on some of the pods and added an airlock and ladder to one that was without. 
+		New light system on the 2 crew cabins, Fixed missing the end bracket 
+		New light system on the Science Research cabin.
+		Changed some PNGs to dds files
+	
+	
 0.9.0.4 
 	Fixed two syntax errors in the two generators
 	Thakns to forum user @ColdJ for this:
