@@ -1,5 +1,17 @@
 Changelog
 
+
+0.9.1
+	Thanks to user @JonnyOThan for these changes:
+		add RPM module patch
+		move RPM patch to Patches folder
+		initial pass at freeiva support
+		remove oddball vahak iva config
+		first round of fixes for freeiva support
+		most freeiva issues fixed
+		final freeiva fixes
+		fix emissive/light in ankhen pod
+
 0.9.0.5
 	Fixed configs for the Mk2Thruster and VyapakSCRAM re. surface effects
 	Changed all remaining PNG files to DDS
