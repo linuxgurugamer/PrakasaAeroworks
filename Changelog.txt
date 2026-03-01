@@ -1,5 +1,9 @@
 Changelog
 
+0.9.1.1
+	Thanks to forum user @ColdJ for this
+		Fixed transform for air intakes
+	Updated version file to get new version info from github
 
 0.9.1
 	Thanks to user @JonnyOThan for these changes:
